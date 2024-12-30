@@ -1,0 +1,17 @@
+e2024 ref 4 notes
+
+1. The study also addresses the issue of plagiarism in Twitter data by employing a plagiarism detection algorithm to ensure that the tweets used in the analysis are original.
+
+2.The vast amount of data generated on Twitter during an election season presents a unique opportunity for researchers to analyse and predict election outcomes accurately 
+
+3.  This approach involves collecting a large volume of tweets related to the election and pre-processing the data to remove irrelevant information and duplicate tweets
+
+4. Political strategists can tailor their messaging and outreach efforts based on the real-time feedback and sentiment expressed by Twitter users.
+
+5. can provide valuable feedback on the most critical issues to voters and help political analysts and campaign strategists craft their messaging accordingly.
+
+6.  RNTN can be applied to analyse the sentiment expressed in tweets and understand the overall feeling towards political candidates or parties. The RNTN model comprises three main components: word embeddings, compositional functions, and a tensor layer 
+
+7. Polarity refers to the sentiment expressed in a text, whether positively biased, negatively biased, or unbiased
+
+8. Subjectivity refers to the degree to which a tweet expresses an opinion rather than a fact 
