@@ -1,0 +1,10 @@
+e2024 ref 7 notes
+1. Political speeches provide a vast pool of unstructured big data accessible online, suitable for Political Discourse Analysis (PDA) using NLP and visualization techniques, addressing challenges posed by the volume, variety, and velocity of data.  
+
+2. Manual linguistic analysis of speeches is time-intensive and limited in scope, while computational methods using NLP offer scalability and efficiency, focusing on English speech transcripts to analyze political attitudes and campaign narratives.  
+
+3. Speech transcripts exhibit big-data properties, including large volume, multilingual variety, and high velocity of availability, sourced from official websites and event organizers using tools like Selenium for comprehensive collection.  
+
+4. Python and libraries like NLTK, Pandas, and Matplotlib are used for scraping, processing, and visualizing data, with text data cleaned, tokenized, and processed to remove noise, irrelevant tags, and stopwords for effective analytics.  
+
+5. Identifying core elements of political speeches, such as introductions, main issues, criticisms, and promises, ensures focused analysis, while proper preprocessing enhances model efficiency and accuracy.  
