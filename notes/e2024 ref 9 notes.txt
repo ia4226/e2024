@@ -1,0 +1,13 @@
+e2024 ref 9 notes
+- Exponential growth of web data necessitates sentiment analysis for actionable insights.  
+- Sentiment analysis categorizes opinions for better understanding, primarily focusing on binary classification.  
+- Existing research emphasizes English and European languages; Arabic, especially Dialectal Arabic, is underexplored.  
+- Arabic comprises Classical Arabic, Modern Standard Arabic (MSA), and Dialectal Arabic, with significant regional variations.  
+- Focus on Algerian dialects, including regional sub-dialects with linguistic peculiarities.  
+- Objective: Classify online comments in Algerian Arabic newspapers into positive or negative sentiments.  
+- Data sources: SANA corpus (created for study) and OCA corpus (MSA-based).  
+- Classification techniques: SVM, NB, KNN with preprocessing like stemming and n-grams.  
+- OCA corpus: TF/TF-IDF improved SVM and KNN, NB excelled with term-occurrence models; stemming had minimal effect.  
+- SANA corpus: Stemming benefited mixed-content texts; n-grams provided limited improvements due to linguistic diversity.  
+- Stemming effectiveness varies by corpus type and document homogeneity.  
+- Future focus: Enhancing corpus representation and leveraging semantically rich sections for improved classification.
