@@ -1,0 +1,11 @@
+e2024 ref 11 notes
+
+
+1. The COVID-19 pandemic, emerging in late 2019, caused severe impacts on health, the economy, and psychology, leading to about 7 million deaths globally by mid-2023.  
+2. It was the third leading cause of death in the US during the first two years, prompting strict social-distancing measures that crippled businesses and increased unemployment.  
+3. High rates of anxiety, depression, and stress were reported globally, exacerbated by unemployment concerns, which significantly affected mental health.  
+4. Many sentiment analysis studies have explored public emotions on social media during the pandemic, but few analyzed unemployment perception in mainstream media.  
+5. A study based on *The New York Times* articles in 2020 used sentiment and discourse analysis to track how unemployment was emotionally represented and evolved during the pandemic.  
+6. Using Python and the NRC Emotion Lexicon, the study extracted sentiments and emotions monthly, identifying patterns and themes linked to unemployment-related coverage.  
+7. Unemployment rates peaked at 14.7% in April 2020, paralleling a surge in *NYT* coverage, highlighting media's reflection of pandemic-induced economic crises.  
+8. Results showed a correlation between unemployment rates and media coverage, emphasizing a negativity bias in economic reporting during the crisis.  
