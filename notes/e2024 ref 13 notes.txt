@@ -1,0 +1,8 @@
+e2024 ref 13 notes
+1. The paper presents a large-scale sentiment analysis system for tracking public sentiment on news and blog entities, leveraging the Lydia text analysis platform.  
+2. Sentiment dictionaries are expanded using WordNet synonyms and antonyms, with path-based analysis and polarity scoring to identify reliable terms.  
+3. Sentiment scoring adjusts for negations, modifiers, and duplicates, ensuring accurate representation of sentiment for entities.  
+4. Performance evaluations show high agreement with curated lexicons and improved precision by filtering less polar and ambiguous terms.  
+5. Comparative analysis highlights differing sentiment trends in blogs versus newspapers, reflecting domain-specific biases and public opinions.  
+6. Techniques like co-reference resolution consolidate alternate entity names, improving the accuracy of sentiment associations.  
+7. Future work includes exploring demographic, geographic, and temporal variations in sentiment, as well as predicting market behavior and popularity trends.
